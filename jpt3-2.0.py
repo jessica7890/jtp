@@ -25,7 +25,7 @@ while number !=4:
         print(prompt)
         number = int(input())
 
-#3 커피자판기
+#3 coffee machine 
 
 coffee = 10
 
